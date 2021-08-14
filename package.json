@@ -1,0 +1,24 @@
+{
+  "name": "taiwan-forecast-map-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben91lin/Taiwan-Forecast-Map-Backend.git"
+  },
+  "author": "ABen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ben91lin/Taiwan-Forecast-Map-Backend/issues"
+  },
+  "homepage": "https://github.com/ben91lin/Taiwan-Forecast-Map-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "request": "^2.88.2"
+  }
+}
